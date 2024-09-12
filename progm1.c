@@ -2,5 +2,6 @@
 void main()
 {
 printf("Welcome to lab");
+printf("Welcome to gitlab");
 }
 
