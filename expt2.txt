@@ -1,0 +1,7 @@
+<html>
+<head>
+<title>introduction to web page </title>
+</head>
+<h1>welcome to we lab </h1>
+</body>
+</html>
