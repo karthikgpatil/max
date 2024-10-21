@@ -1,0 +1,9 @@
+#include<stdio.>
+void main()
+{
+printf("Welcome to lab");
+printf("
+}
+i have added this line in remotrepo on saturday
+this line im adding in mylocal repositry on monday
+
