@@ -5,6 +5,7 @@ void main()
 printf("HELLO WORLD");
 =======
 printf("welcome to git lab");
+printf("welcome ");
 >>>>>>> Stashed changes
 }
 i have added this line in remotrepo on saturday
